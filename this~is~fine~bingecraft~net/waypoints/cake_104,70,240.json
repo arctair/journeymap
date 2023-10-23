@@ -1,0 +1,18 @@
+{
+  "id": "cake_104,70,240",
+  "name": "cake",
+  "icon": "waypoint-normal.png",
+  "x": 104,
+  "y": 70,
+  "z": 240,
+  "r": 114,
+  "g": 174,
+  "b": 230,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    -1
+  ],
+  "persistent": true
+}

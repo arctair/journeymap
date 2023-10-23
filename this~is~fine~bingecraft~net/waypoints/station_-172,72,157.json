@@ -1,0 +1,18 @@
+{
+  "id": "station_-172,72,157",
+  "name": "station",
+  "icon": "waypoint-normal.png",
+  "x": -172,
+  "y": 72,
+  "z": 157,
+  "r": 187,
+  "g": 154,
+  "b": 56,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
